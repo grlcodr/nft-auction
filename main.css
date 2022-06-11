@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400&display=swap');
+
+:root {
+    --body-font: 'Jost', sans-serif;
+    --regular-weight: 400;
+    --light-weight: 300;
+}
+
+body {
+    font-family: var(--body-font);
+    font-weight: var(--regular-weight);
+}
+
+.nav-item {
+    font-size: 1.2rem;
+}
+
+.main-btn {
+    background: #ff6666;
+    border-color: white;
+    border-radius: 100px;
+    color: white;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.main-btn:hover {
+    background-color: #ff0f0f;
+    color: white;
+}
+
+
+.bx-menu {
+    font-size: 2rem;
+}
+
+.navbar-nav > li{
+    padding: 0 1rem;
+}
