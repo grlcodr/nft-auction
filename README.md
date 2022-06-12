@@ -10,7 +10,7 @@ Web Icons from [Boxicons](https://boxicons.com)
 
 ## Visuals
 ### Desktop
-![Desktop](https://www.awesomescreenshot.com/image/28606431?key=222177d3c545103f51a4d89a58f40321)
+![Desktop](https://tinyurl.com/2p9hcw5k)
 
 ### Mobile
-![Mobile](https://www.awesomescreenshot.com/image/28606456?key=affe9ace1e8d672e692154e0610a88c2)
+![Mobile](https://tinyurl.com/mw95efv5)
