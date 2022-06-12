@@ -19,7 +19,7 @@ function countdown() {
         let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
         let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
         let seconds = Math.floor((distance % (1000 * 60)) / 1000);
-        day.innerHTML = days;
+        day.innerText = days;
         hour.innerHTML = hours;
         min.innerHTML = minutes;
         sec.innerHTML = seconds;
