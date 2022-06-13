@@ -226,7 +226,7 @@ input {
       display: flex;
       flex-direction: column;
       margin-top: 5rem;
-      height: 110vh;
+      height: 90vh;
   }
 
   .nft-details {
